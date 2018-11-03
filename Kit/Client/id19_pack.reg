@@ -1,0 +1,90 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ID Device SDK\1.90]
+"AlgID"=hex:0a,6d,a3,81,57,5a,61,96,61,3c,66,ce,37,b7,a3,3d,e0,6a,33,32,9c,35,\
+  a1,65,cf,74,41,01,d5,cb,73,82
+"SDK"=hex:96,81,c5,78,d7,c8,c8,6e
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Siemens\ID Device SDK\1.90]
+"BuildNumber"="1905"
+"Comment"="Release"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Siemens\ID Device SDK\1.90\SDK]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Siemens\ID Device SDK\1.90\SDK\109117445]
+"BitsPerPixel"=dword:00000008
+"RotatePicture"=dword:00000000
+"ResolutionX"=dword:000000e0
+"ResolutionY"=dword:00000120
+"CheckLineEndMark"=dword:00000000
+"LineEndMark"=dword:00000001
+"Port"="USB"
+"MinBlackGrayLevel"=dword:0000005a
+"MaxWhiteGrayLevel"=dword:000000aa
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Siemens\ID Device SDK\1.90\SDK\109117456]
+"BitsPerPixel"=dword:00000008
+"RotatePicture"=dword:00000000
+"ResolutionX"=dword:000000e0
+"ResolutionY"=dword:00000120
+"CheckLineEndMark"=dword:00000000
+"LineEndMark"=dword:00000001
+"Port"="USB"
+"MinBlackGrayLevel"=dword:0000005a
+"MaxWhiteGrayLevel"=dword:000000aa
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Siemens\ID Device SDK\1.90\SDK\109121535]
+"BitsPerPixel"=dword:00000008
+"RotatePicture"=dword:00000000
+"ResolutionX"=dword:000000e0
+"ResolutionY"=dword:00000120
+"CheckLineEndMark"=dword:00000000
+"LineEndMark"=dword:00000001
+"Port"="USB"
+"MinBlackGrayLevel"=dword:0000005a
+"MaxWhiteGrayLevel"=dword:000000aa
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Siemens\ID Device SDK\1.90\SDK\75702295]
+"BitsPerPixel"=dword:00000008
+"RotatePicture"=dword:00000000
+"ResolutionX"=dword:00000100
+"ResolutionY"=dword:00000168
+"CheckLineEndMark"=dword:00000000
+"LineEndMark"=dword:00000001
+"Port"="USB"
+"MinBlackGrayLevel"=dword:0000005a
+"MaxWhiteGrayLevel"=dword:000000aa
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Siemens\ID Device SDK\1.90\SDK\BiometricProcessing]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Siemens\ID Device SDK\1.90\SDK\BiometricProcessing\Enroll]
+"FusionEnroll"=dword:00000000
+"MaxReferences"=dword:00000003
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Siemens\ID Device SDK\1.90\SDK\BiometricProcessing\Match]
+"MatcherEngine"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Siemens\ID Device SDK\1.90\SDK\BiometricProcessing\Match\0]
+"ThresholdLow"=dword:00000019
+"ThresholdMid"=dword:0000001e
+"ThresholdHigh"=dword:00000028
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Siemens\ID Device SDK\1.90\SDK\BiometricProcessing\Match\1]
+"ThresholdLow"=dword:0000000b
+"ThresholdMid"=dword:0000000f
+"ThresholdHigh"=dword:00000015
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Siemens\ID Device SDK\1.90\SDK\BiometricProcessing\Recognition]
+"FastIdent"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Siemens\ID Device SDK\1.90\SDK\BiometricProcessing\Security]
+"SecurityLevel"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Siemens\ID Device SDK\1.90\SDK\General]
+"Crypt"=dword:00000002
+"CreateEnrollImage"=dword:00000000
+"Timeout"=dword:0000000a
+"SensorDeviceID"=dword:06810005
+"ParallelSensorMouse"=dword:00000001
+"LatentImageDetection"=dword:00000001
+"LatentImageShiftLimit"=dword:00000004
